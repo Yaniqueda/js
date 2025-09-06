@@ -1,2 +1,2 @@
-# palito
+# javascript
 map
